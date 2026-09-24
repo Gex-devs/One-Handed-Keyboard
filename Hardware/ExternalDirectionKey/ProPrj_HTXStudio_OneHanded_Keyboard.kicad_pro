@@ -628,8 +628,8 @@
     "top_level_sheets": [
       {
         "filename": "ProPrj_HTXStudio_OneHanded_Keyboard.kicad_sch",
-        "name": "键盘轴_MR",
-        "uuid": "6ba2a9d0-bf5e-4287-93b5-9f28b902b9f0"
+        "name": "鼠标滚轮_小尺寸",
+        "uuid": "6adabb9f-c5dc-4aaa-bd3b-3656b96263d4"
       }
     ],
     "used_designators": "",
@@ -637,12 +637,8 @@
   },
   "sheets": [
     [
-      "0a85ee92-559a-40ea-8efb-e0965e170351",
-      "keys"
-    ],
-    [
-      "6ba2a9d0-bf5e-4287-93b5-9f28b902b9f0",
-      "键盘轴_MR"
+      "6adabb9f-c5dc-4aaa-bd3b-3656b96263d4",
+      "鼠标滚轮_小尺寸"
     ]
   ],
   "text_variables": {},
